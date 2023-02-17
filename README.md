@@ -1,4 +1,6 @@
 # mini-builds-java
 
-Challange: 300 algoritms by one year.
-Everyday an simple new algoritm just for some pratics.
+This repository is a part of 300 Challenge Java
+
+Challenge: 150 basics algoritms by one year.
+Each two days a simple new algoritm just for some pratics.
